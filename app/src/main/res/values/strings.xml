@@ -2,4 +2,8 @@
     <string name="app_name">My Application</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_main2">Main2Activity</string>
+    <string name="hello_world_textview">hello world</string>
+    <string name="button">Update the TextView</string>
+    <string name="hint">A Name</string>
+
 </resources>
